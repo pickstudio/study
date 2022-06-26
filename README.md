@@ -6,7 +6,8 @@
   - 시작일 : 2022/06/19~
 
 
-  - [2주차]
+  - 히스토리
+    - [2주차]
 
 
 [AWS 공식문서 같이 읽기]:https://github.com/pickstudio/study/tree/main/dev/aws
